@@ -1,5 +1,5 @@
 # **CLBF-Based Decentralized Safety Control with Conflict Resolution for Multi-Robot Systems**
-These are Video Animations for the Results of a Paper Titled:  
+Video Animations for the Result of a Paper Titled:  
 **_"CLBF-Based Decentralized Safety Control with Conflict Resolution for Multi-Robot Systems"_**
 
 # MAIN RESULT
