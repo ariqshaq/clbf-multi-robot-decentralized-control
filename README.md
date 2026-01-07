@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/a122cf96-a874-4656-96bf-a9841caafde3
 https://github.com/user-attachments/assets/8ac06e6c-e5f1-4144-9391-9d950271bb4f
 
 
-Another Link for High Quality Video is here: https://drive.google.com/drive/folders/1QydQdMOaEDlj7rbM_CRMf479mWdhhNk2?usp=drive_link
+Here is another link for the High Quality Videos: https://drive.google.com/drive/folders/1QydQdMOaEDlj7rbM_CRMf479mWdhhNk2?usp=drive_link
