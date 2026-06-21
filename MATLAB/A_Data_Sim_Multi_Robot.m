@@ -1,6 +1,6 @@
 %% A_Data_Sim_Multi_Robot.m
-% Simulation: 6-Robot Warehouse Navigation with LiDAR and Human Obstacles
-% Output    : sim_results.mat
+% Simulation : 6-Robot Warehouse Navigation with LiDAR and Human Obstacles
+% Output     : sim_results.mat
 % Run this script first before A_Plot_Multi_Robot.m or A_Plot_Safety_Distance
 
 clear; clc;
